@@ -5,9 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>Nama saya Muh. Agil Al-Munawar. Saya seorang mahasiswa di Universitas Muslim Indonesia yang terletak di
   kota Makassar. Saya mengambil jurusan teknik sipil yang berada di fakultas teknik. 
   Saya menjadi mahasiswa di universitas tersebut pada tahun 2019, sekarang saya sudah semester 7.<br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+  <a href="https://www.linkedin.com/in/agilmunawar/">View My LinkedIn Profile</a> 
   
 #theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
