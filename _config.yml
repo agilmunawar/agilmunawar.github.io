@@ -2,7 +2,9 @@ title: Muh. Agil Al-Munawar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Nama saya Muh. Agil Al-Munawar. Sekarang saya seorang mahasiswa di Universita Muslim Indonesia
+  yang terletak di kota makassar. Saya menempuh pendidikan di universitas ini sejak tahun 2019.
+  Saat ini saya berjalan di semester 7.<br>
   <a href="https://www.linkedin.com/in/agilmunawar/">View My LinkedIn Profile</a> 
   
 #theme: jekyll-theme-minimal
